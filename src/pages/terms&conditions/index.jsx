@@ -6,7 +6,7 @@ const TermsConditions = () => {
     <div className="container py-5">
       <h1 className="mb-4">Terms & Conditions</h1>
       <p>
-        Welcome to Hakato Kitaro Sushi. By accessing or using our website and
+        Welcome to Hakata Kitaro Sushi. By accessing or using our website and
         services, you agree to comply with and be bound by the following Terms
         & Conditions. Please read them carefully before using our site.
       </p>
@@ -35,13 +35,13 @@ const TermsConditions = () => {
       <h4>4. Intellectual Property</h4>
       <p>
         All text, images, graphics, and content on this website are the property
-        of Hakato Kitaro Sushi. You may not reproduce, distribute, or use any
+        of Hakata Kitaro Sushi. You may not reproduce, distribute, or use any
         content without prior written consent.
       </p>
 
       <h4>5. Limitation of Liability</h4>
       <p>
-        Hakato Kitaro Sushi will not be held responsible for any damages arising
+        Hakata Kitaro Sushi will not be held responsible for any damages arising
         from the use of this website, including reliance on the information
         provided.
       </p>

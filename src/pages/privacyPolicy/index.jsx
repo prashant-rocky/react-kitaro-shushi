@@ -6,7 +6,7 @@ const PrivacyPolicy = () => {
     <div className="container py-5">
       <h1 className="mb-4">Privacy Policy</h1>
       <p>
-        Hakato Kitaro Sushi respects your privacy and is committed to protecting
+        Hakata Kitaro Sushi respects your privacy and is committed to protecting
         the personal information of our guests. This Privacy Policy explains how
         we collect, use, and safeguard your information when you visit our
         website or dine with us.
@@ -66,7 +66,7 @@ const PrivacyPolicy = () => {
 
       <h4>7. Changes to This Policy</h4>
       <p>
-        Hakato Kitaro Sushi may update this Privacy Policy from time to time.
+        Hakata Kitaro Sushi may update this Privacy Policy from time to time.
         Updates will be posted on this page with the revised date.
       </p>
 

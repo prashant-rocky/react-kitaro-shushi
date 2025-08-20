@@ -6,7 +6,7 @@ const CookiesPolicy = () => {
     <div className="container py-5">
       <h1 className="mb-4">Cookies Policy</h1>
       <p>
-        This Cookies Policy explains how Hakato Kitaro Sushi uses cookies and
+        This Cookies Policy explains how Hakata Kitaro Sushi uses cookies and
         similar technologies on our website. By continuing to browse or use our
         site, you agree to the use of cookies as described in this policy.
       </p>
@@ -63,7 +63,7 @@ const CookiesPolicy = () => {
 
       <h4>6. Updates to This Policy</h4>
       <p>
-        Hakato Kitaro Sushi may update this Cookies Policy from time to time.
+        Hakata Kitaro Sushi may update this Cookies Policy from time to time.
         Please check this page for the latest version.
       </p>
 

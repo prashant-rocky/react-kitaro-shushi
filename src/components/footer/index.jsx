@@ -26,7 +26,7 @@ const Footer = () => {
           notice_banner_reject_button_hide: false,
           preferences_center_close_button_hide: false,
           page_refresh_confirmation_buttons: false,
-          website_name: "Hakato Kitaro Sushi",
+          website_name: "Hakata Kitaro Sushi",
           website_privacy_policy_url: "https://github.com/", // replace with your real policy URL
         });
       }
@@ -41,9 +41,9 @@ const Footer = () => {
             {/* Logo + Description */}
             <div className="col-md-4">
               <div className="footerLogo">
-                <img src={logo} alt="Hakato Kitaro Sushi Logo" className="pb-3" />
+                <img src={logo} alt="Hakata Kitaro Sushi Logo" className="pb-3" />
                 <p>
-                  Hakato Kitaro Sushi welcomes you to experience authentic
+                  Hakata Kitaro Sushi welcomes you to experience authentic
                   Japanese dining in the heart of Fukuoka. From traditional sushi
                   to chef’s specials, we take pride in serving fresh flavors with
                   warm hospitality.
@@ -101,7 +101,7 @@ const Footer = () => {
             <div className="col-md-6">
               <div className="text-center py-3">
                 <p className="mb-0">
-                  © 2023 Hakato Kitaro Sushi. All rights reserved.
+                  © 2023 Hakata Kitaro Sushi. All rights reserved.
                 </p>
               </div>
             </div>

@@ -6,10 +6,10 @@ const Disclaimer = () => {
     <div className="container py-5">
       <h1 className="mb-4">Disclaimer</h1>
       <p>
-        The information provided on the Hakato Kitaro Sushi website is for
+        The information provided on the Hakata Kitaro Sushi website is for
         general informational and promotional purposes only. While we strive to
         keep our menu, opening hours, and other details accurate and
-        up-to-date, Hakato Kitaro Sushi makes no guarantees about the
+        up-to-date, Hakata Kitaro Sushi makes no guarantees about the
         completeness, reliability, or accuracy of this information.
       </p>
 
@@ -22,7 +22,7 @@ const Disclaimer = () => {
 
       <h4>2. Allergies & Dietary Information</h4>
       <p>
-        Although we take care in preparing our dishes, Hakato Kitaro Sushi
+        Although we take care in preparing our dishes, Hakata Kitaro Sushi
         cannot guarantee that food items are completely free from allergens such
         as nuts, gluten, soy, or shellfish. Guests with food allergies or
         dietary restrictions should inform our staff before ordering.
@@ -31,13 +31,13 @@ const Disclaimer = () => {
       <h4>3. External Links</h4>
       <p>
         This website may contain links to external websites for your
-        convenience. Hakato Kitaro Sushi does not control and is not responsible
+        convenience. Hakata Kitaro Sushi does not control and is not responsible
         for the content or reliability of any external websites.
       </p>
 
       <h4>4. Limitation of Liability</h4>
       <p>
-        By using our website, you acknowledge that Hakato Kitaro Sushi will not
+        By using our website, you acknowledge that Hakata Kitaro Sushi will not
         be held liable for any direct, indirect, or incidental damages resulting
         from the use of this website, including reliance on the information
         provided.

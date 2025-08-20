@@ -106,22 +106,22 @@ export const Blogs = [
     {
         id :  1,
         imgSrc : imagepath.blog1,
-        title : "Tradition Meets Innovation at Hakato Kitaro Sushi",
+        title : "Tradition Meets Innovation at Hakata Kitaro Sushi",
         description : 'Sushi is more than just food in Japan—it is an art form that balances simplicity, freshness, and tradition.....',
         date : '18 August 2025'
     },
     {
         id :  2,
         imgSrc : imagepath.blog2,
-        title : "Japanese Hospitality at Hakato Kitaro Sushi",
-        description : 'At Hakato Kitaro Sushi, dining is not just about food—it’s about experiencing the heart of Japanese hospitality.....',
+        title : "Japanese Hospitality at Hakata Kitaro Sushi",
+        description : 'At Hakata Kitaro Sushi, dining is not just about food—it’s about experiencing the heart of Japanese hospitality.....',
         date : '18 August 2025'
     },
     {
         id :  3,
         imgSrc : imagepath.blog3,
-        title : "From Market to Plate at Hakato Kitaro Sushi",
-        description : 'At Hakato Kitaro Sushi, we believe the foundation of great sushi begins long before it reaches your plate....',
+        title : "From Market to Plate at Hakata Kitaro Sushi",
+        description : 'At Hakata Kitaro Sushi, we believe the foundation of great sushi begins long before it reaches your plate....',
         date : '18 August 2025'
     },
 
@@ -130,19 +130,19 @@ export const Blogs2 = [
     {
         id: 1,
         imgSrc: imagepath.blog4,
-        title: "Tradition Meets Innovation at Hakato Kitaro Sushi",
-        content: "Sushi is more than just food in Japan—it is an art form that balances simplicity, freshness, and tradition. At Hakato Kitaro Sushi, we take pride in preserving this culinary heritage while also embracing innovation. Our head chef, with years of experience in both traditional and modern sushi techniques, crafts each dish to highlight the natural flavors of the ingredients. From our carefully selected fish to our house-made sauces, every element is designed to create a harmonious dining experience that respects the past while looking towards the future......"
+        title: "Tradition Meets Innovation at Hakata Kitaro Sushi",
+        content: "Sushi is more than just food in Japan—it is an art form that balances simplicity, freshness, and tradition. At Hakata Kitaro Sushi, we take pride in preserving this culinary heritage while also embracing innovation. Our head chef, with years of experience in both traditional and modern sushi techniques, crafts each dish to highlight the natural flavors of the ingredients. From our carefully selected fish to our house-made sauces, every element is designed to create a harmonious dining experience that respects the past while looking towards the future......"
     },
     {
         id: 2,
         imgSrc: imagepath.blog5,
-        title: "Japanese Hospitality at Hakato Kitaro Sushi",
-        content: "At Hakato Kitaro Sushi, dining is not just about food—it’s about experiencing the heart of Japanese hospitality. Our staff is trained to provide attentive yet unobtrusive service, ensuring that every guest feels welcomed and valued. Whether you’re enjoying a quiet dinner or celebrating a special occasion, our team is here to make your visit memorable. We believe that great service enhances the enjoyment of our dishes, allowing you to fully immerse yourself in the flavors and traditions of Japanese cuisine....."
+        title: "Japanese Hospitality at Hakata Kitaro Sushi",
+        content: "At Hakata Kitaro Sushi, dining is not just about food—it’s about experiencing the heart of Japanese hospitality. Our staff is trained to provide attentive yet unobtrusive service, ensuring that every guest feels welcomed and valued. Whether you’re enjoying a quiet dinner or celebrating a special occasion, our team is here to make your visit memorable. We believe that great service enhances the enjoyment of our dishes, allowing you to fully immerse yourself in the flavors and traditions of Japanese cuisine....."
     },
     {
         id: 3,
         imgSrc: imagepath.blog6,
-        title: "From Market to Plate at Hakato Kitaro Sushi",
-        content: "At Hakato Kitaro Sushi, we believe the foundation of great sushi begins long before it reaches your plate. Our commitment to quality starts with sourcing the freshest ingredients from local markets and trusted suppliers. Each morning, our team selects seasonal fish and produce to ensure that only the best makes it into our dishes. This dedication to freshness not only enhances the flavor but also supports sustainable practices within our community. Join us as we celebrate the journey from market to plate, bringing you an authentic taste of Japan....."
+        title: "From Market to Plate at Hakata Kitaro Sushi",
+        content: "At Hakata Kitaro Sushi, we believe the foundation of great sushi begins long before it reaches your plate. Our commitment to quality starts with sourcing the freshest ingredients from local markets and trusted suppliers. Each morning, our team selects seasonal fish and produce to ensure that only the best makes it into our dishes. This dedication to freshness not only enhances the flavor but also supports sustainable practices within our community. Join us as we celebrate the journey from market to plate, bringing you an authentic taste of Japan....."
     }
 ]

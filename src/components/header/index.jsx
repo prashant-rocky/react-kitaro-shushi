@@ -30,7 +30,7 @@ function Header() {
       <Container>
         <Navbar.Brand>
           <Link to="/" className="nav-link-custom px-3" onClick={Scroll}>
-            <img src={logo} alt="Hakato Kitaro Sushi Logo" />
+            <img src={logo} alt="Hakata Kitaro Sushi Logo" />
           </Link>
         </Navbar.Brand>
 
