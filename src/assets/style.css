@@ -91,3 +91,18 @@ p{
   stroke-dasharray: 125.6;
   transform: rotate(-90deg);
 }
+input{
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+.nav-link-custom {
+  text-decoration: none;   /* no underline by default */
+  color: black;            /* keep text black */
+  transition: all 0.2s ease-in-out;
+}
+
+.nav-link-custom:hover {
+  text-decoration: underline; /* underline on hover */
+  color: black;               /* prevent Bootstrap hover color change */
+}

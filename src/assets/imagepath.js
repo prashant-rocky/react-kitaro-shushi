@@ -12,6 +12,9 @@ import item8 from "./menuItem/item8.jfif";
 import blog1 from "./news-1.jpg";
 import blog2 from "./news-2.jpg";
 import blog3 from "./news-3.jpg";
+import blog4 from "./news-4.jpg";
+import blog5 from "./news5.jpg";
+import blog6 from "./news-6.jpg";
 
 export default {
     service1,
@@ -27,5 +30,8 @@ export default {
     item8,
     blog1,
     blog2,
-    blog3
+    blog3,
+    blog4,
+    blog5,
+    blog6
 };

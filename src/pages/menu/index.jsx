@@ -1,10 +1,14 @@
 import React from "react";
+import MenuSlider from "../../components/menuSlider";
+import Menuitem from "../../components/menu";
 
 const Menu = () => {
     return(
-        <h1>
-            Menu
-        </h1>
+        <>
+            <MenuSlider />
+            <hr />
+            <Menuitem />
+        </>
     )
 }
 export default Menu;

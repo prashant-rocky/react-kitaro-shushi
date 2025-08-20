@@ -2,7 +2,7 @@ import React from "react";
 import { MenuData1, MenuData2 } from "../../utils/data";
 import MenuCard from "../menuCard";
 
-const Menu = () => {
+const Menuitem = () => {
     return(
         <section className="menu py-5">
             <div className="container text-center">
@@ -49,4 +49,4 @@ const Menu = () => {
         </section>
     )
 }
-export default Menu;
+export default Menuitem;

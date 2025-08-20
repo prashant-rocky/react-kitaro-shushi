@@ -9,6 +9,7 @@ import Gallery from "../../components/gallary";
 import Chef from "../../components/chefs";
 import Testimonial from "../../components/testimonial";
 import Blog from "../../components/blog";
+import Menuitem from "../../components/menu";
 
 const Home = () => {
     return (
@@ -20,7 +21,7 @@ const Home = () => {
         <hr />
         <Services/>
         <hr />
-        <Menu />
+        <Menuitem />
         <hr />
         <Gallery />
         <hr />

@@ -4,26 +4,33 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import logo from '../../assets/logo.png';  
 import '../../assets/style.css'; // Import your custom styles
-import { Link, NavLink } from 'react-router-dom';
+import { Link, NavLink, useNavigate } from 'react-router-dom';
 
 function Header() {
+  const navigate = useNavigate();
+  const Reserve = () => {
+    navigate("/reservation") // Redirect to reservation page
+  };
+  const Scroll = () => {
+    window.scrollTo(0, 0); // Scroll to top of the page
+  };
   return (
-    <Navbar expand="lg" className="bg-body-tertiary">
+    <Navbar expand="lg" className="bg-body-tertiary position-sticky top-0 start-0 z-3">
       <Container>
-        <Navbar.Brand><Link to="/" className='text-decoratin-none text-black px-3'>
+        <Navbar.Brand><Link to="/" className='nav-link-custom px-3' onClick={Scroll}>
           <img src={logo} alt="error" />
         </Link> </Navbar.Brand>
 
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
-            <Nav><Link to="/" className='text-decoratin-none text-black px-3'>Home</Link> </Nav>
-            <Nav><NavLink to="/about" className='text-decoratin-none text-black px-3'>About</NavLink> </Nav>
-            <Nav><NavLink to="/blog" className='text-decoratin-none text-black px-3'>Blog</NavLink> </Nav>
-            <Nav><NavLink to="/menu" className='text-decoratin-none text-black px-3'>Menu</NavLink> </Nav>
-            <Nav><NavLink to="/contact" className='text-decoratin-none text-black px-3'>Contact</NavLink> </Nav>
+            <Nav><Link to="/" className='nav-link-custom px-3' onClick={Scroll}>Home</Link> </Nav>
+            <Nav><NavLink to="/about" className='nav-link-custom px-3' onClick={Scroll}>About</NavLink> </Nav>
+            <Nav><NavLink to="/blog" className='nav-link-custom px-3' onClick={Scroll}>Blog</NavLink> </Nav>
+            <Nav><NavLink to="/menu" className='nav-link-custom px-3' onClick={Scroll}>Menu</NavLink> </Nav>
+            <Nav><NavLink to="/contact" className='nav-link-custom px-3' onClick={Scroll}>Contact</NavLink> </Nav>
           </Nav>
-        <button className='mainBtn ms-md-5'>Reservation</button>
+        <button className='mainBtn ms-md-5' onClick={Reserve}>Reservation</button>
         </Navbar.Collapse>
       </Container>
     </Navbar>

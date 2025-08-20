@@ -1,10 +1,15 @@
 import React from "react";
+import BlogSlider from "../../components/blogSlider";
+import BlogDetail from "../../components/blogDetail";
 
 const Blog = () => {
     return(
-        <h1>
-            Blog
-        </h1>
+        <>
+            <BlogSlider />
+            <hr />
+            <BlogDetail />
+
+        </>
     )
 }
 export default Blog;
