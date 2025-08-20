@@ -137,7 +137,7 @@ const Footer = () => {
                 onClick={Scroll}
               >
                 Terms & Conditions
-              </Link>
+              </Link>|
             </span>
             {/* Update cookies preferences link */}
             <div className="text-center py-2 d-inline">
