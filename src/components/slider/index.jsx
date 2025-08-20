@@ -12,7 +12,7 @@ const Slider = () => {
                         <button className="mainBtn">Book Table</button>
                     </div>
                     <div className="col-md-6">
-                        <img src={food} alt="error" />
+                        <img src={food} alt="error" className="img-fluid" />
                     </div>
                 </div>
             </div>

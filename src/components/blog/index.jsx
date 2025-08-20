@@ -11,7 +11,7 @@ const Blog = () => {
                         Blogs.map(blog => {
                             return (
 
-                                <div className="col-md-4" key={blog.id}>
+                                <div className="col-md-4 py-3" key={blog.id}>
                                     <BlogCard
                                         image={blog.imgSrc}
                                         title={blog.title}
